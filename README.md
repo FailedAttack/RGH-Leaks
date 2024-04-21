@@ -1,5 +1,5 @@
 # RGH-Leaks
-Sick and Tired of the Retards iusing RGH's to think they are cool all of a sudden
+Sick and Tired of the Retards using RGH's to think they are cool all of a sudden
 Will keep this updated for you sexy sluts
 
 ![cipher](https://user-images.githubusercontent.com/114695247/218244379-0f2b15da-6bec-4447-8e78-e81be2c25a0b.png) Cipher
