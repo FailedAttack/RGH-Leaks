@@ -6,55 +6,11 @@
                              
 							
                               - xbOnline - 
-	      [\] 51.81.96.204:28326 [/] 149.28.239.201:28326 [\] 149.28.239.201:28326
+[\] 51.81.96.204:28326 [/] 149.28.239.201:28326 [\] 149.28.239.201:28326
 	      
 	                      - XBGuard -
-	  [\] 139.99.176.117:26273  [/]  45.8.201.228:26273     
+[\] 139.99.176.117:26273  [/]  45.8.201.228:26273  [\]  128.140.108.230:26273  [/]  5.78.93.94:26273 
 
-			  - Teapot -
-         [\]  51.81.32.204:94 [/] 51.81.85.238:92    
+			       - Teapot -
+[\]  51.81.32.204:94 [/] 51.81.85.238:92    
 	      
-
-Cipher
-:green_circle: Database: Operational. (Checked 17 seconds ago)
-:orange_circle: Client Server #1: Some frontend servers are unavailable (192.X.X.164). (Checked 36 seconds ago)
-:green_circle: Client Server #2: Operational. (Checked 34 seconds ago)
-:green_circle: Client Server #3: Operational. (Checked 22 seconds ago)
-:green_circle: Client Server #4: Operational. (Checked 15 seconds ago)
-:green_circle: Regular No KV Mode: Operational. (Checked 15 seconds ago)
-:green_circle: Premium No KV Mode: Operational. (Checked 15 seconds ago)
-:green_circle: Website: Operational. (Checked 14 seconds ago)
-https://cipher.services	      
-	      
-Cipher
-BOT
- — Today at 10:54 PM
-
-Cipher
- Database: Operational. (Checked 13 seconds ago)
- Client Server #1: Some frontend and backend servers are unavailable (172.X.X.66, 172.X.X.67, 192.X.X.164, 51.X.X.150). (Checked 27 seconds ago)
- Client Server #2: Operational. (Checked 25 seconds ago)
- Client Server #3: Operational. (Checked 18 seconds ago)
- Client Server #4: Operational. (Checked 11 seconds ago)
- Regular No KV Mode: Operational. (Checked 11 seconds ago)
- Premium No KV Mode: Operational. (Checked 11 seconds ago)
- Website: Operational. (Checked 10 seconds ago)
-https://cipher.services
-
-
-
-
-
-
-
-
-Cipher
-:green_circle: Database: Operational. (Checked 6 seconds ago)
-:red_circle: Client Server #1: Some frontend and backend servers are unavailable (172.X.X.66, 172.X.X.67, 192.X.X.164, 51.X.X.150). (Checked 31 seconds ago)
-:orange_circle: Client Server #2: Some frontend servers are unavailable (172.X.X.66, 172.X.X.67). (Checked 25 seconds ago)
-:orange_circle: Client Server #3: Some frontend servers are unavailable (172.X.X.66, 172.X.X.67). (Checked 19 seconds ago)
-:orange_circle: Client Server #4: Some frontend servers are unavailable (172.X.X.66, 172.X.X.67). (Checked 13 seconds ago)
-:green_circle: Regular No KV Mode: Operational. (Checked 13 seconds ago)
-:green_circle: Premium No KV Mode: Operational. (Checked 13 seconds ago)
-:red_circle: Website: Unavailable. (10599) (Checked 11 seconds ago)
-https://cipher.services
