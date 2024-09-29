@@ -1,5 +1,6 @@
 # RGH-Leaks
-(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk1eW9nNTBsdWhvb2R0MmM5NWVhNTdnMmoxMHRneGxjcnlvd2JjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif)
+
+![tumblr_951a840830691640d70865934f8fd582_fe8d6cc7_400](https://github.com/user-attachments/assets/8e75b2e7-00db-44c3-89ad-c58224715d30)
 
 
 It was fun in the beginning when rgh modding was cool now its gotten to be as worse as this generation 
