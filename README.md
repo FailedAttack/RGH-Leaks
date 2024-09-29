@@ -1,7 +1,7 @@
 # RGH-Leaks
+![Uploading giphy (2).gif…]()
+![giphy (1)](https://github.com/user-attachments/assets/fa865440-974c-445d-ad45-3470d7e1be94)
 
-![tumblr_951a840830691640d70865934f8fd582_fe8d6cc7_400](https://github.com/user-attachments/assets/8e75b2e7-00db-44c3-89ad-c58224715d30)
-![Screenshot 2024-09-29 002110](https://github.com/user-attachments/assets/fda00f33-38f6-4843-87ba-78d342dc9aa6)
 I cant tell whats worse this generation being able to identify as whatever or the newage modding community. Since People like to flex paying $150 for Skid Ripped code 
 
 
@@ -19,7 +19,7 @@ I cant tell whats worse this generation being able to identify as whatever or th
 
 
 
-
+![Screenshot 2024-09-29 002110](https://github.com/user-attachments/assets/fda00f33-38f6-4843-87ba-78d342dc9aa6)
 
 
 
