@@ -1,5 +1,6 @@
 # RGH-Leaks
-![Uploading giphy (2).gif…]()
+![giphy (2)](https://github.com/user-attachments/assets/1d8bdc7b-164a-4266-823e-c350adeb0264)
+
 ![giphy (1)](https://github.com/user-attachments/assets/fa865440-974c-445d-ad45-3470d7e1be94)
 
 I cant tell whats worse this generation being able to identify as whatever or the newage modding community. Since People like to flex paying $150 for Skid Ripped code 
