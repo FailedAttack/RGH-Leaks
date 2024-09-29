@@ -1,5 +1,7 @@
 # RGH-Leaks
-![giphy (1)](https://github.com/user-attachments/assets/fa865440-974c-445d-ad45-3470d7e1be94)
+![giphy (1)](https://github.com/user-attachments/assets/fa865440-974c-445d-ad45-3470d7e1be94) ![giphy (2)](https://github.com/user-attachments/assets/67c9c61e-901f-4c85-ba1c-d496409ec275) ![giphy (1)](https://github.com/user-attachments/assets/63cae7c7-64a2-4b6a-8063-fb68d34ba21c)
+
+
 
 Since returning to the U.S. from my trip to Japan, it’s clear that some still don’t grasp the concept of "playing nice." Initially, I aimed to maintain good relations with everyone, but over the years, xbOnline has been the only stealth server with which I’ve had a consistently positive relationship. Even after they transitioned to a private model, we remain on good terms. I’m still working to verify through my sources if they have any connection to Guard or Shield.
 
@@ -30,8 +32,3 @@ The real turning point came when I realized that, despite enduring weekly attack
 
 
 ![Screenshot 2024-09-29 002110](https://github.com/user-attachments/assets/fda00f33-38f6-4843-87ba-78d342dc9aa6)
-
-
-
-![Screenshot 2023-02-02 224754](https://user-images.githubusercontent.com/114695247/216516404-ed9730c1-0d25-4682-94ba-7724f3ca9fe4.png)
-![XbGuard on top who 2](https://github.com/user-attachments/assets/8cf381b8-a3fd-4454-a0ef-e5ec2880d5c6)
