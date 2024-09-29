@@ -16,19 +16,3 @@ For a while, my team has been handling the bulk of the workload, but the time fo
 I’ve extended offers to help many of you establish proper protections and filtering, yet you still complain when my team and I manage to take down your failover servers—despite your so-called “always-on” mitigation. It’s almost comical. I couldn’t help but laugh when some of you believed I had access to RME files, when in reality, your off-host HvH capabilities couldn’t even compete with my free off-host.
 
 The real turning point came when I realized that, despite enduring weekly attacks exceeding 1 Tb on my budget server, you all still fail in your attempts to take me offline. And let’s not forget—it wasn’t a coincidence that Black Ops II was down for a week. I understand many of you cling to that old CoD title because you can’t afford a proper gaming PC or a next-gen console.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Screenshot 2024-09-29 002110](https://github.com/user-attachments/assets/fda00f33-38f6-4843-87ba-78d342dc9aa6)
