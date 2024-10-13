@@ -3,7 +3,7 @@
 
 
 
-Since returning to the U.S. from my trip to Japan, it’s clear that some still don’t grasp the concept of "playing nice." Initially, I aimed to maintain good relations with everyone, but over the years, xbOnline has been the only stealth server with which I’ve had a consistently positive relationship. Even after they transitioned to a private model, we remain on good terms. I’m still working to verify through my sources if they have any connection to Guard or Shield.
+Since returning to the U.S. from Japan, it’s clear that some still don’t grasp the concept of "playing nice." Initially, I aimed to maintain good relations with everyone, but over the years, xbOnline has been the only stealth server with which I’ve had a consistently positive relationship. Even after they transitioned to a private model, we remain on good terms. I’m still working to verify through my sources if they have any connection to Guard or Shield.
 
 At this point, however, nearly everyone else has become a source of frustration. It seems Ninja has resurfaced, likely utilizing the same leaked code from years ago. It would be unfortunate if the servers they rely on were compromised again, leaving them to falsely claim service terminations due to non-payment—when in reality, they’ve long had the financial means and effectively monopolized the RGH modding scene.
 
